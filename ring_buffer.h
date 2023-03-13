@@ -3,7 +3,6 @@
  * @author Joshua Bussis (joshua.bussis@spindance.com)
  * @brief   An implementation of a string ring buffer that 
  *          does not rely on dynamic memory allocation.
- * @version 0.1
  * @date 2023-03-13
  */
 
